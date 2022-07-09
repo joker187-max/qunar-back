@@ -1,0 +1,654 @@
+{
+  "data": [
+    [
+      {
+        "startTime": "7:10",
+        "endTime": "09:26",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T1",
+        "price": 560,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:25",
+        "endTime": "09:19",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T1",
+        "price": 780,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:30",
+        "endTime": "09:50",
+        "startAirport": "首都T3",
+        "endAirport": "浦东T2",
+        "price": 484,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "7:35",
+        "endTime": "09:38",
+        "startAirport": "首都T3",
+        "endAirport": "虹桥T2",
+        "price": 590,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:35",
+        "endTime": "09:05",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T2",
+        "price": 790,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:10",
+        "endTime": "09:10",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 560,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:25",
+        "endTime": "09:20",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 780,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:30",
+        "endTime": "09:20",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 484,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      }
+    ],
+    [
+      {
+        "startTime": "7:35",
+        "endTime": "09:45",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 590,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:35",
+        "endTime": "09:15",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 790,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:50",
+        "endTime": "10:30",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T3",
+        "price": 690,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "7:55",
+        "endTime": "10:35",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T3",
+        "price": 749,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:45",
+        "endTime": "09:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 479,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:42",
+        "endTime": "11:46",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1070,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱3.9折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:35",
+        "endTime": "11:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1380,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:50",
+        "endTime": "11:55",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1248,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "9:10",
+        "endTime": "12:10",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T3",
+        "price": 680,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱3.8折",
+        "isRising": false
+      },
+      {
+        "startTime": "9:15",
+        "endTime": "12:15",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T2",
+        "price": 760,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      }
+    ],
+    [
+      {
+        "startTime": "7:10",
+        "endTime": "09:20",
+        "startAirport": "首都T3",
+        "endAirport": "虹桥T2",
+        "price": 434,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:25",
+        "endTime": "09:35",
+        "startAirport": "首都T1",
+        "endAirport": "浦东T2",
+        "price": 780,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱7.8折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:30",
+        "endTime": "09:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 484,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱4.6折",
+        "isRising": true
+      },
+      {
+        "startTime": "7:35",
+        "endTime": "09:45",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 590,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.9折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:35",
+        "endTime": "09:15",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 790,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.8折",
+        "isRising": false
+      },
+      {
+        "startTime": "6:35",
+        "endTime": "09:15",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1070,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.8折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:35",
+        "endTime": "09:45",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 590,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:35",
+        "endTime": "09:15",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 790,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:50",
+        "endTime": "10:30",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T3",
+        "price": 690,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "7:55",
+        "endTime": "10:35",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T3",
+        "price": 749,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:45",
+        "endTime": "09:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 479,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:42",
+        "endTime": "11:46",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1070,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱3.9折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:35",
+        "endTime": "11:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1380,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:50",
+        "endTime": "11:55",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1248,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "9:10",
+        "endTime": "12:10",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T3",
+        "price": 680,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱3.8折",
+        "isRising": false
+      },
+      {
+        "startTime": "9:15",
+        "endTime": "12:15",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T2",
+        "price": 760,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      }
+    ],
+    [
+      {
+        "startTime": "7:10",
+        "endTime": "09:20",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 439,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:25",
+        "endTime": "09:35",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 780,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:30",
+        "endTime": "09:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 484,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "7:35",
+        "endTime": "09:45",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 590,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:35",
+        "endTime": "09:15",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 790,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:35",
+        "endTime": "09:45",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 590,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:35",
+        "endTime": "09:15",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 790,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:50",
+        "endTime": "10:30",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T3",
+        "price": 690,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "7:55",
+        "endTime": "10:35",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T3",
+        "price": 749,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:45",
+        "endTime": "09:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 479,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:42",
+        "endTime": "11:46",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1070,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱3.9折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:35",
+        "endTime": "11:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1380,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:50",
+        "endTime": "11:55",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1248,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "9:10",
+        "endTime": "12:10",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T3",
+        "price": 680,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱3.8折",
+        "isRising": false
+      },
+      {
+        "startTime": "9:15",
+        "endTime": "12:15",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T2",
+        "price": 760,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      }
+    ],
+    [
+      {
+        "startTime": "7:10",
+        "endTime": "09:20",
+        "startAirport": "首都T1",
+        "endAirport": "浦东T2",
+        "price": 1070,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱4.5折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:25",
+        "endTime": "9:35",
+        "startAirport": "首都T1",
+        "endAirport": "浦东T2",
+        "price": 780,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱8.6折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:30",
+        "endTime": "9:40",
+        "startAirport": "首都T3",
+        "endAirport": "浦东T2",
+        "price": 483,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱7.1折",
+        "isRising": true
+      },
+      {
+        "startTime": "7:35",
+        "endTime": "9:45",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T3",
+        "price": 590,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱3.8折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:35",
+        "endTime": "9:15",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T2",
+        "price": 790,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱4.6折",
+        "isRising": true
+      },
+      {
+        "startTime": "7:35",
+        "endTime": "9:45",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 590,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:35",
+        "endTime": "9:15",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 790,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "7:50",
+        "endTime": "10:30",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T3",
+        "price": 690,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "7:55",
+        "endTime": "10:35",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T3",
+        "price": 749,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "6:45",
+        "endTime": "9:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 479,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:42",
+        "endTime": "11:46",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1070,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱3.9折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:35",
+        "endTime": "11:40",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1380,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      },
+      {
+        "startTime": "8:50",
+        "endTime": "11:55",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T2",
+        "price": 1248,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": false
+      },
+      {
+        "startTime": "9:10",
+        "endTime": "12:10",
+        "startAirport": "首都T1",
+        "endAirport": "虹桥T3",
+        "price": 680,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱3.8折",
+        "isRising": false
+      },
+      {
+        "startTime": "9:15",
+        "endTime": "12:15",
+        "startAirport": "首都T2",
+        "endAirport": "虹桥T2",
+        "price": 760,
+        "airPlaneType": "东航MU5183 空客A330",
+        "discount": "经济舱6.4折",
+        "isRising": true
+      }
+    ]
+  ]
+}
